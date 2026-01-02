@@ -78,7 +78,7 @@ Aprendo e evoluo **resolvendo problemas reais**, lidando com regra de negócio, 
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/antonio-amaral-ti/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/ajuniorcal)
 
 ---
